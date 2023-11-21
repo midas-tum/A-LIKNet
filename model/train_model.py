@@ -1,9 +1,9 @@
 
 import os
 import time
+import utils
 import datetime
 import callbacks
-import utils.utils
 import tensorflow as tf
 from A_LIKNet_model import A_LIKNet
 from dataset import CINE2DDataset
