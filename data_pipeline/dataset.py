@@ -1,4 +1,15 @@
 
+"""
+dataset.py
+
+Dataset loader for the in-vivo Cine MR dataset used in the A-LIKNet project.
+
+⚠️ Note: The dataset used in this project is not publicly available due to institutional restrictions.
+If you're trying to reproduce our results, please refer to the original paper or contact the authors.
+You may also consider testing on publicly available datasets (e.g., OCMR, CMRxRecon).
+"""
+
+
 import tensorflow as tf
 import pandas as pd
 import numpy as np
