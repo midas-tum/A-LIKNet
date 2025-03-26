@@ -34,3 +34,40 @@ A-LIKNet/
 ├── pictures/             # Visualizations (network diagrams etc.)
 ├── utils/                # Utility functions (metrics, visualization)
 └── README.md             # Project description and usage
+```
+
+---
+
+## 📂 Dataset
+
+This project uses an **in-vivo cardiac Cine MR dataset**, which cannot be publicly released due to institutional data sharing restrictions.
+
+If you are interested in reproducing the results, please contact the authors for potential collaboration or use publicly available alternatives such as:
+
+- [OCMR](https://www.ocmr.info/)
+- [CMRxRecon](https://www.synapse.org/Synapse:syn51471091/wiki/622170)
+
+---
+
+## 📚 Citation
+
+If you use this code or find our work helpful, please cite:
+
+```
+@article{xu2025ALIKNet,
+  title={Attention incorporated network for sharing low-rank, image and k-space information during MR image reconstruction to achieve single breath-hold cardiac Cine imaging},
+  author={Xu, Siying and Hammernik, Kerstin and Lingg, Andreas and Kübler, Jens and Krumm, Patrick and Rueckert, Daniel and Gatidis, Sergios and Küstner, Thomas},
+  journal={Computerized Medical Imaging and Graphics},
+  volume={120},
+  pages={102475},
+  year={2025},
+  publisher={Elsevier},
+  doi={10.1016/j.compmedimag.2024.102475}
+}
+```
+
+---
+
+## 📬 Contact
+
+For questions or collaboration opportunities, feel free to reach out to Siying Xu at siying.xu@med.uni-tuebingen.de
