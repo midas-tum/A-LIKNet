@@ -49,6 +49,17 @@ If you are interested in reproducing the results, please contact the authors for
 
 ---
 
+## 📽️ Presentation
+
+We presented **A-LIKNet** at the **2023 ISMRM & ISMRT Annual Meeting & Exhibition**.
+
+🎞️ [▶ Watch the presentation here](https://archive.ismrm.org/2023/0819.html)
+
+> 📝 This presentation was based on an earlier version of our work, submitted as an extended abstract to ISMRM 2023.  
+> The current repository reflects the full version published in *Computerized Medical Imaging and Graphics (2025)*.
+
+---
+
 ## 📚 Citation
 
 If you use this code or find our work helpful, please cite:
